@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!--Nightlife-->
+    <string name="nightlife1Name">Caprice Nightclub</string>
+    <string name="nightlife2Name">Celebrities</string>
+    <string name="nightlife3Name">Bar None Nightclub</string>
+    <string name="nightlife1Address">Address: 967 Granville St, Vancouver, BC V6Z 1L3</string>
+    <string name="nightlife2Address">Address: 1022 Davie St, Vancouver, BC V6E 1M3</string>
+    <string name="nightlife3Address">Address: 1222 Hamilton St, Vancouver, BC V6B 2S8</string>
+
+    <!--Outdoor-->
+    <string name="outdoor1Name">Stanley Park</string>
+    <string name="outdoor2Name">Lynn Canyon Park</string>
+    <string name="outdoor3Name">Queen Elizabeth Park</string>
+    <string name="outdoor1Address">Address: Large park beside downtown, Vancouver, BC V6G 1Z4</string>
+    <string name="outdoor2Address">Address: 3663 Park Rd, North Vancouver, BC V7J 3G3</string>
+    <string name="outdoor3Address">Address: 4600 Cambie St, Vancouver, BC V5Y 2M9</string>
+
+    <!--Restaurants-->
+    <string name="restaurants1Name">KFC</string>
+    <string name="restaurants2Name">McDonalds</string>
+    <string name="restaurants3Name">Subway</string>
+    <string name="restaurants1Address">Address: 1147 Davie St, Vancouver, BC V6E 1N2</string>
+    <string name="restaurants2Address">Address: 891 Granville St, Vancouver, BC V6Z 1K7</string>
+    <string name="restaurants3Address">Address: 5218 Joyce St, Vancouver, BC V5R 4G8</string>
+
+    <!--Sports-->
+    <string name="sports1Name">Hockey (Vancouver Canucks)</string>
+    <string name="sports2Name">Soccer (Vancouver Whitecaps)</string>
+    <string name="sports3Name">Football (BC Lions)</string>
+    <string name="sports1Address">Rogers Arena:  Address: 800 Griffiths Way, Vancouver, BC V6B 6G1</string>
+    <string name="sports2Address">BC Place:  Address: 777 Pacific Blvd, Vancouver, BC V6B 4Y8</string>
+    <string name="sports3Address">BC Place:  Address: 777 Pacific Blvd, Vancouver, BC V6B 4Y8</string>
+</resources>
